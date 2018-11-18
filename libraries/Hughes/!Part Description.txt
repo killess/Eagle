@@ -1,0 +1,13 @@
+<p> aaaa - bbbb <p><be>
+<p><b>Manufacturer:</b> nnnn <p><be>
+<p><b>Manufacturer Part Number:</b> xxxx <p><be>
+<p><b>Description:</b> dddd <p><be>
+<a href="yyyy">Digi-Key Part</a>
+
+
+
+Attributes:
+
+DIGIKEY#
+MANF
+MANF#

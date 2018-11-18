@@ -1,0 +1,21 @@
+# Ignore list for Eagle
+
+*.d#?
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+*.url
+
+
+projects/
+/libraries/*
+!/libraries/Hughes/
+!/libraries/DESCRIPTION
+libraries/Hughes/temp
+
+
+
+
