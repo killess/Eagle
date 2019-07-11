@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.0">
+<eagle version="9.4.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -583,7 +583,11 @@
 <connect gate="B" pin="VSSA/VREF-" pad="12"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="DIGIKEY#" value="497-15376-ND" constant="no"/>
+<attribute name="MANF" value="STMicroelectronics" constant="no"/>
+<attribute name="MANF#" value="STM32F446RET6" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
