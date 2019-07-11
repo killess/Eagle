@@ -11,3 +11,8 @@ Attributes:
 DIGIKEY#
 MANF
 MANF#
+
+
+https://en.wikipedia.org/wiki/Electronic_symbol
+https://en.wikipedia.org/wiki/Reference_designator
+

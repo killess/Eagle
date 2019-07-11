@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.0">
+<eagle version="9.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -111,8 +111,8 @@
 <text x="266.7" y="11.43" size="2.54" layer="94">REV:</text>
 <text x="179.07" y="19.05" size="2.54" layer="94">TITLE:</text>
 <text x="179.07" y="11.43" size="2.54" layer="94">Document Number:</text>
-<text x="195.58" y="19.05" size="2.54" layer="94">&gt;DRAWING_NAME</text>
-<text x="213.36" y="25.908" size="7.62" layer="94">ℌ𝔲𝔤𝔥𝔢𝔰</text>
+<text x="195.58" y="17.78" size="2.54" layer="94">&gt;DRAWING_NAME</text>
+<text x="213.36" y="25.908" size="7.62" layer="94">Hughes</text>
 </symbol>
 </symbols>
 <devicesets>
